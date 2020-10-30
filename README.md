@@ -12,7 +12,9 @@ Fork this repo and edit web.html file.
 Open web.html page and simply add your name!
 
 Sample line:<br>
+```markdown
 *< li class="list-group-item">**Your_name**< span class="badge">**Your_number**< /span>< /li >*
+```
 
 Replace Your_name and add this line to web.html file and you are good to go. 
 
@@ -27,4 +29,4 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ## Copyright
 
-Copyright (c) 2018 Hacktoberfest 2018 Signup. See [LICENSE](LICENSE) for details.
+Copyright (c) 2020 Hacktoberfest 2018 Signup. See [LICENSE](LICENSE) for details.

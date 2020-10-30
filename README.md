@@ -31,30 +31,19 @@ Add a `Your_Name.md` file to the `profiles` directory. Use any combination of co
 
 ```markdown
 # Your Name
+-Your Name
 
 ### Location
-
-Your City/Country
+-Your City/Country
 
 ### Academics
-
-Your School
+-Your School
 
 ### Interests
-
 - Some Things You Like
 
-### Development
-
-- Inventor of the My Pillow
-
-### Projects
-
-- [My Project](GitHub Link) Short Description
-
 ### Profile Link
-
-[Your Name](GitHub Link)
+[Your Github username](GitHub Link)
 ```
 
 
